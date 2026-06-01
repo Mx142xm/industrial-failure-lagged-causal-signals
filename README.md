@@ -95,6 +95,7 @@ industrial_failure_lagged_causal_signals_report.pdf
 
 ## Repository Structure 
 
+```text
 industrial_failure_lagged_causal_signals.ipynb — Jupyter notebook with the simulation study
 industrial_failure_lagged_causal_signals_report.pdf — Project report
 requirements.txt — Python dependencies
