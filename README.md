@@ -91,7 +91,7 @@ Applying the framework to empirical industrial sensor data.
 
 The full project report is available here:
 
-industrial_failure_lagged_causal_signals_report.pdf
+[industrial_failure_lagged_causal_signals_report.pdf](industrial_failure_lagged_causal_signals_report.pdf)
 
 ## Repository Structure 
 
@@ -100,4 +100,3 @@ industrial_failure_lagged_causal_signals.ipynb — Jupyter notebook with the sim
 industrial_failure_lagged_causal_signals_report.pdf — Project report
 requirements.txt — Python dependencies
 README.md — Project description
-How to Run
